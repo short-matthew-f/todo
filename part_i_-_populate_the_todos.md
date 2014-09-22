@@ -163,3 +163,7 @@ if (condition) {
 ```
 
 We want to say IF input isn't blank THEN add it to the list.  Try moving your code around to make it work.  Once you can only add things with at least one character (even a space), call over the instructor for a quick code review.
+
+# Next step
+
+Go to [Part II](https://github.com/short-matthew-f/todo/blob/master/part_ii.md).

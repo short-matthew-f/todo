@@ -61,3 +61,7 @@ Since we're using divs to act like buttons, make sure when you hover over them t
 Once you achieve a static page that looks like this, call the instructor over for a quick code review.
 
 ![before-the-storm](first_approximation.png)
+
+# Next step
+
+Go to [Part I](https://github.com/short-matthew-f/todo/blob/master/part_i_-_populate_the_todos.md)

@@ -64,3 +64,7 @@ Remember, `on("click",` and `click(` provide the same general functionality.  Th
 * We can confirm a list item
 
 As usual, once you've implemented these features, call over the instructor to discuss your code.
+
+# Next Step
+
+Go to [Part III](https://github.com/short-matthew-f/todo/blob/master/part_iii.md) and finish it up.
